@@ -1,0 +1,9 @@
+name: universe-final
+main: "de.christianbernstein.universe.UniversePlugable"
+version: 0.0.1
+
+commands:
+  "universe":
+    description: universe command
+    aliases:
+      - u
